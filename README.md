@@ -9,5 +9,6 @@ In this project a music streaming mobile app's interface is redesigned going thr
 2. A low-fidelity prototype was developed and presented to users.
 3. After considering user feedback and making necessary amendments, a high-fidelity prototype was developed.
 4. A usuability testing script was made, interview questions were formed, and a consent form was written to conduct a usuability test with the instructor of the course through a zoom meeting.
-5. Data gathered was analyzed and the user interface was modified. 
+5. Data gathered was analyzed and the user interface was modified.
+6. The entire process was documented in a final report. 
 
